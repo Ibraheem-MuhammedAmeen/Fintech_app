@@ -1,4 +1,3 @@
-import 'package:fintech/service_locator.dart';
 import 'package:flutter/material.dart';
 
 
